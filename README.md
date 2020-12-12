@@ -26,30 +26,34 @@
 ![Test Image 3](./Images/im2.png)
 
 
-
-
-
-<TODO:  
-* Architectural Diagram (Shows how key parts of the system work)>
-
-<TODO:  Instructions for running the Python project.  How could a user with no context run this project without asking you for any help.  Include screenshots with explicit steps to create that work. Be sure to at least include the following screenshots:
-
 * Project running on Azure App Service
+![Test Image 3](./Images/im7.png)
 
 * Project cloned into Azure Cloud Shell
+    > git clone git@github.com:melch-inno/DevOps_P2.git
+
 
 * Passing tests that are displayed after running the `make all` command from the `Makefile`
+![Test Image 3](./Images/im6.png)
 
 * Output of a test run
 
 * Successful deploy of the project in Azure Pipelines.  [Note the official documentation should be referred to and double checked as you setup CI/CD](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/python-webapp?view=azure-devops).
 
-![Test Image 3](./Images/im2.png)
+![Test Image 3](./Images/im8.png)
+![Test Image 3](./Images/im9.png)
+![Test Image 3](./Images/im11.png)
+![Test Image 3](./Images/im13.png)
+![Test Image 3](./Images/im24.png)
+![Test Image 3](./Images/im16.png)
 
 * Running Azure App Service from Azure Pipelines automatic deployment
 
+
 * Successful prediction from deployed flask app in Azure Cloud Shell.  [Use this file as a template for the deployed prediction](https://github.com/udacity/nd082-Azure-Cloud-DevOps-Starter-Code/blob/master/C2-AgileDevelopmentwithAzure/project/starter_files/flask-sklearn/make_predict_azure_app.sh).
 The output should look similar to this:
+![Test Image 3](./Images/im27.png)
+
 
 ```bash
 udacity@Azure:~$ ./make_predict_azure_app.sh
@@ -63,10 +67,13 @@ Port: 443
 
 ## Enhancements
 
-<TODO: A short description of how to improve the project in the future>
+<TODO: Future Improvements>
+* Build a full functional Python API of Language processing for prediction
+* Deploy to Azure using Azure Pipeline
 
 ## Demo 
 
 <TODO: Add link Screencast on YouTube>
+
 
 
