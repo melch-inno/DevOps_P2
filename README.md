@@ -1,10 +1,5 @@
 # Overview
-
-<TODO: complete this with an overview of your project>
-
 ## Project Plan
-<TODO: Project Plan
-
 * A link to a spreadsheet that includes the original and final project plan>
 [link](https://docs.google.com/spreadsheets/d/1r-QCQrMUD3tgQreZDlkejPOZut9TXzJQElnBdDQvl2I/edit#gid=1348135932)
 
