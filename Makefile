@@ -1,10 +1,10 @@
 setup:
-	python3 -m venv ~/.udacity-devops
+	python3 -m venv ~/.devops2
 
 install:
 	pip install --upgrade pip &&\
 		pip install -r ./Exercise1/requirements.txt &&\
-		pip install -r ./WebApp_Service/requirements.txt
+		pip install -r requirements.txt
 
 test:
 	#python -m pytest -vv --cov=myrepolib tests/*.py
