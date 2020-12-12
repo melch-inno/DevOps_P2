@@ -5,18 +5,27 @@
 ## Project Plan
 <TODO: Project Plan
 
-* A link to a Trello board for the project
 * A link to a spreadsheet that includes the original and final project plan>
+[link](https://docs.google.com/spreadsheets/d/1r-QCQrMUD3tgQreZDlkejPOZut9TXzJQElnBdDQvl2I/edit#gid=1348135932)
 
 ## Instructions
-
 * Create a Github repo
 * Lauch Azure Shell env.
-* 
+* Clone the repo to Azure
+![Test Image 3](./Images/im4.png)
 
 
+* Create Makefile
+* Create requirement.txt
+* Create a Python virtual environment
 
-![Test Image 3](./Images/im1.png)
+* Enable Github action UI
+* Replace yml file with scaffolding 
+* Verify remote tests pass in Github Actions UI
+
+![Test Image 3](./Images/im2.png)
+
+
 
 
 
