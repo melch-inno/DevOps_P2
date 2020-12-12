@@ -4,7 +4,7 @@ setup:
 install:
 	pip install --upgrade pip &&\
 		pip install -r ./Exercise1/requirements.txt &&\
-		pip install -r ./FLUSK_APP/requirements.txt
+		pip install -r ./Flusk_APP/requirements.txt
 
 test:
 	#python -m pytest -vv --cov=myrepolib tests/*.py
@@ -13,6 +13,6 @@ test:
 
 lint:
 	#hadolint Dockerfile #uncomment to explore linting Dockerfiles
-	pylint --disable=R,C,W1203 ./FLUSK_APP/app.py
+	pylint --disable=R,C,W1203 ./Flusk_APP/app.py
 
 all: install lint test 
