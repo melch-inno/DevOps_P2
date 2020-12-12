@@ -12,7 +12,7 @@ test:
 
 
 lint:
-	pylint --disable=R,C,W1203 ./Flusk_APP/app.py
+	pylint --disable=R,C ./Flusk_APP/app.py
 
 	#hadolint Dockerfile #uncomment to explore linting Dockerfiles
 	#pylint --disable=R,C,W1203 ./Flusk_APP/app.py
