@@ -1,4 +1,4 @@
-![Application Test with Github Actions ](https://github.com/melch-inno/DevOps_P2/workflows/CI/badge.svg)
+![DevOps_P2 Application Test with Github Actions](https://github.com/melch-inno/DevOps_P2/workflows/DevOps_P2/badge.svg)
 
 
 # Overview
