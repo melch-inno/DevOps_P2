@@ -1,3 +1,5 @@
+https://github.com/melch-inno/DevOps_P2/workflows/CI/badge.svg
+
 # Overview
 ## Project Plan
 * A link to a spreadsheet that includes the original and final project plan>
