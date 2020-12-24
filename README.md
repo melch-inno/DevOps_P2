@@ -4,7 +4,7 @@
 # Overview
 ## Project Plan
 * A link to a spreadsheet that includes the original and final project plan>
-[link](https://docs.google.com/spreadsheets/d/1r-QCQrMUD3tgQreZDlkejPOZut9TXzJQElnBdDQvl2I/edit#gid=1348135932)
+[link](https://docs.google.com/spreadsheets/d/1r-QCQrMUD3tgQreZDlkejPOZut9TXzJQElnBdDQvl2I/edit?usp=sharing)
 
 ## Instructions
 * Create a Github repo
