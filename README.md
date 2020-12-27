@@ -1,7 +1,10 @@
+![DevOps_P2 Application Test with Github Actions](https://github.com/melch-inno/DevOps_P2/workflows/DevOps_P2/badge.svg)
+
+
 # Overview
 ## Project Plan
 * A link to a spreadsheet that includes the original and final project plan>
-[link](https://docs.google.com/spreadsheets/d/1r-QCQrMUD3tgQreZDlkejPOZut9TXzJQElnBdDQvl2I/edit#gid=1348135932)
+[link](https://docs.google.com/spreadsheets/d/1r-QCQrMUD3tgQreZDlkejPOZut9TXzJQElnBdDQvl2I/edit?usp=sharing)
 
 ## Instructions
 * Create a Github repo
@@ -22,6 +25,7 @@
 
 
 * Project running on Azure App Service
+
 ![Test Image 3](./Images/im7.png)
 
 * Project cloned into Azure Cloud Shell
@@ -29,6 +33,7 @@
 
 
 * Passing tests that are displayed after running the `make all` command from the `Makefile`
+
 ![Test Image 3](./Images/im6.png)
 
 * Output of a test run
@@ -36,8 +41,6 @@
 * Successful deploy of the project in Azure Pipelines.  [Note the official documentation should be referred to and double checked as you setup CI/CD](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/python-webapp?view=azure-devops).
 
 ![Test Image 3](./Images/im8.png) \n
-
-![Test Image 3](./Images/im9.png) \n
 
 ![Test Image 3](./Images/im11.png)
 
