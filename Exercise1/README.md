@@ -42,7 +42,7 @@
 * Project cloned into Azure Cloud Shell
 
 * Passing tests that are displayed after running the `make all` command from the `Makefile`
-![Test Image 3](./Images/im30.png)
+![Test results](./Images/im30.png)
 
 
 * Output of a test run
