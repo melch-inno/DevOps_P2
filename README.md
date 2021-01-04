@@ -1,8 +1,6 @@
 ![DevOps_P2 Application Test with Github Actions](https://github.com/melch-inno/DevOps_P2/workflows/DevOps_P2/badge.svg)
 
 
-
-
 # Overview
 ## Project Plan
 * A link to a spreadsheet that includes the original and final project plan>
@@ -72,6 +70,10 @@ Port: 443
 * Output of streamed log files from deployed application
 ![Test Image 3](./Images/im25.png)
 > 
+
+
+* Include a locustfile.py
+![Test Image 3](./Images/im31.png)
 
 ## Enhancements
 
