@@ -6,7 +6,10 @@
 <TODO: Project Plan
 
 * A link to a spreadsheet that includes the original and final project plan>
-[link](https://docs.google.com/spreadsheets/d/1r-QCQrMUD3tgQreZDlkejPOZut9TXzJQElnBdDQvl2I/edit#gid=1348135932)
+[link](https://docs.google.com/spreadsheets/d/1r-QCQrMUD3tgQreZDlkejPOZut9TXzJQElnBdDQvl2I/edit?usp=sharing)
+
+* A link to Trello Board>
+[link](https://trello.com/b/7zYl4UN0/devops2-agile-sprint-board)
 
 ## Instructions
 * Create a Github repo
@@ -39,6 +42,8 @@
 * Project cloned into Azure Cloud Shell
 
 * Passing tests that are displayed after running the `make all` command from the `Makefile`
+![Test Image 3](./Images/im30.png)
+
 
 * Output of a test run
 
