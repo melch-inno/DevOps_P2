@@ -6,7 +6,7 @@
 <TODO: Project Plan
 
 * A link to a spreadsheet that includes the original and final project plan>
-!=[Spreadsheet link](https://docs.google.com/spreadsheets/d/1r-QCQrMUD3tgQreZDlkejPOZut9TXzJQElnBdDQvl2I/edit?usp=sharing)
+[Spreadsheet link](https://docs.google.com/spreadsheets/d/1r-QCQrMUD3tgQreZDlkejPOZut9TXzJQElnBdDQvl2I/edit?usp=sharing)
 
 * A link to Trello Board>
 [Trello link](https://trello.com/b/7zYl4UN0/devops2-agile-sprint-board)
