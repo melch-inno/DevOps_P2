@@ -1,6 +1,8 @@
 ![DevOps_P2 Application Test with Github Actions](https://github.com/melch-inno/DevOps_P2/workflows/DevOps_P2/badge.svg)
 
 
+[![Build Status](https://dev.azure.com/IBA-melch/Devop101/_apis/build/status/melch-inno.DevOps_P2?branchName=main)](https://dev.azure.com/IBA-melch/Devop101/_build/latest?definitionId=2&branchName=main)
+
 # Overview
 ## Project Plan
 * A link to a spreadsheet that includes the original and final project plan>
